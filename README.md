@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Mehta</h1>
 <h3 align="center">A passionate software developer with a passion for open-source and sharing knowledge.</h3>
 
-<img align="right" alt="coding"width="400"src="![image](https://github.com/nikhilritgithub/nikhilritgithub/assets/142686565/6df165e2-f95e-4d03-bcd2-28a92b600724)
+<image src="(https://github.com/nikhilritgithub/nikhilritgithub/assets/142686565/6df165e2-f95e-4d03-bcd2-28a92b600724)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilritgithub&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilritgithub" /> </p>
