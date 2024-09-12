@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilritgithub" alt="nikhilritgithub" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](http://mehtaportfolio.unaux.com/)
+- 🔭 I’m currently working on [My Portfolio](https://nikhilritgithub.github.io/My_Portfolio/)
 
-- 🌱 I’m currently learning **ANDROID DEVELOPMENT**
+- 🌱 I’m currently learning **Node Js/ Data Structures**
 
 - 👯 I’m looking to collaborate on **FRONTEND and ANDROID projects**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@nikhil.2022012091](https://medium.com/@nikhil.2022012091)
 
-- 💬 Ask me about **HTML,CSS,JS,KOTLIN,C++**
+- 💬 Ask me about **HTML,CSS,JS,KOTLIN,Java**
 
 - 📫 How to reach me **mehta.nikhil8100@gmail.com**
 
